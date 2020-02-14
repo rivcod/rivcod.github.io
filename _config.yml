@@ -3,6 +3,7 @@ title:              "Rivcod"
 description:        "Flowing"
 author_name:        "Rivcod" # change this to your name
 logo_url:           https://github.com/images/error/octocat_happy.gif # Get it from GitHub API: https://api.github.com/users/<username>
+theme: the-plain
 
 # Site Settings
 url:                https://rivcod.github.io
