@@ -2,7 +2,7 @@
 title:              "Rivcod"
 description:        "Flowing"
 author_name:        "Rivcod" # change this to your name
-logo_url:           https://developer.github.com/v3/users/#get-a-single-user # Get it from GitHub API: https://api.github.com/users/<username>
+logo_url:           https://github.com/images/error/octocat_happy.gif # Get it from GitHub API: https://api.github.com/users/<username>
 
 # Site Settings
 url:                https://rivcod.github.io
