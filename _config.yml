@@ -1,7 +1,7 @@
 # Site Info
 title:              "Rivcod"
 description:        "Flowing"
-author_name:        "Rivcod" # change this to your name
+author_name:        "Rivcod"
 logo_url:           https://github.com/images/error/octocat_happy.gif # Get it from GitHub API: https://api.github.com/users/<username>
 theme: the-plain
 
