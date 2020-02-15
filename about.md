@@ -3,5 +3,5 @@ layout: page
 title: About
 ---
 
-_Github_ : (https://github.com/rivcod)
+[GitHub](https://github.com/rivcod).
 
