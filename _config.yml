@@ -1,6 +1,8 @@
 # Site Info
 title:              "Rivcod"
 description:        "Flowing"
+google_verify:       # Put your Google Verification here
+google_analytics:   'G-L7BZ84ZHRE'
 author_name:        "Rivcod"
 logo_url:           https://github.com/images/error/octocat_happy.gif # Get it from GitHub API: https://api.github.com/users/<username>
 theme: the-plain
@@ -43,5 +45,3 @@ defaults:
       type:         "posts"
     values:
       layout:       "post"
-
-google_analytics: 'G-L7BZ84ZHRE'
