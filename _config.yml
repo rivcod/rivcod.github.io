@@ -3,10 +3,14 @@ title:              "Rivcod"
 description:        "Flowing"
 google_verify:       # Put your Google Verification here
 google_analytics:   'G-L7BZ84ZHRE'
-author_name:        "Rivcod"
-author_gravatar:    # Gravatar md5 hash
 logo_url:           assets/cig.png # Get it from GitHub API: https://api.github.com/users/<username>
 theme: the-plain
+
+# Author Info
+author_name:        "Rivcod"
+author_email:       game9um@gmail.com
+author_gravatar:    assets/cig.png
+github_username:    rivcod
 
 # Site Settings
 url:                https://rivcod.github.io
