@@ -199,10 +199,10 @@ pre {
   border: 1px solid #ddd;
   padding: 1rem;
   code {
-    font-size: 100%;
     color: inherit;
     background-color: transparent;
-    padding: 0;
+    padding: 3px 6px;
+    font-size: 13px;
   }
 }
 table {
@@ -340,6 +340,7 @@ section {
     padding: 0;
     li {
       margin: 25px 0;
+      line-height: 1.2 em;
       .title {
         max-width: 100%;
         //overflow: hidden !important;
@@ -359,6 +360,7 @@ section {
       }
       span {
         display: inline-block;
+        font-size: 0.8em;
         color: #757575;
         letter-spacing: 1px;
         text-transform: uppercase;
