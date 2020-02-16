@@ -4,8 +4,8 @@ layout: default
 
 <section>
 
-	{% for post in site.posts %}
-		{% unless post.next %}
+	
+<!-- 		{% unless post.next %}
 			<h3 class="code">{{ post.date | date: '%Y' }}</h3>
 		{% else %}
 			{% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
@@ -13,12 +13,14 @@ layout: default
 			{% if year != nyear %}
 				<h3 class="code">{{ post.date | date: '%Y' }}</h3>
 			{% endif %}
-		{% endunless %}
+		{% endunless %} -->
 	
 		<ul>
+			
+			{% for post in site.posts %}
 			<li>
-				<div class="post-date code">
-					<span>{{ post.date | date: " %y %b %d" }}</span>
+				<div class="post-date">
+					<span>{{ post.date | date: "%b %d, %Y" }}</span>
 				</div>
 				<div class="title">
 					<a href="{{ post.url | prepend: site.baseurl | prepend: site.url }}">{{ post.title }}</a>
