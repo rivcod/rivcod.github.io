@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Contacts
 ---
-
-## Contacts
 
 github  :  [/rivcod](https://github.com/rivcod)
 <br>
