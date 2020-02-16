@@ -3,5 +3,8 @@ layout: page
 title: About
 ---
 
-Github : [Rivcod](https://github.com/rivcod)
+## Contacts
 
+github  :  [/rivcod](https://github.com/rivcod)
+<br>
+email    : [game9um@gmail.com](game9um@gmail.com)
