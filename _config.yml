@@ -4,7 +4,7 @@ description:        "Flowing"
 google_verify:       # Put your Google Verification here
 google_analytics:   'G-L7BZ84ZHRE'
 logo_url:           assets/white-cloud.png # Get it from GitHub API: https://api.github.com/users/<username>
-theme: the-plain
+# theme: the-plain
 
 # Author Info
 author_name:        "Rivcod"
