@@ -8,6 +8,9 @@ published: true
 
 	<head>
 		{% include head.html %}
+		{% if site.google_analytics
+  		include google_analytics
+		endif %}
 	</head>
 
 	<body>
