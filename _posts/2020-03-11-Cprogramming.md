@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "C Programming - Ⅱ"
+title:  "C Programming : 혼자 배우는 C언어"
 date:   2020-03-11 11:38:00 
 lastmod: 2020-03-11 11:38:00
-categories: [C, Programming, 혼자 공부하는 C언어]
+categories: [C, Programming]
 sitemap:
   changefreq : daily
   priority : 1.0
