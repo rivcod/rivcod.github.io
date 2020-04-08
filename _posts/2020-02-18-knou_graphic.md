@@ -61,12 +61,27 @@ http://www.atio.co.kr/
 자료실에서 소스자료를 다운할 수 있다.
 
 [stock photo]
-http://www.sxc.ht/
-http//www.stockvault.net/
+https://www.sxc.ht/
+https://www.stockvault.net/
 
 ### 7. 2D 그래픽스의 실제 2
 
 ### 8. 2D 그래픽스의 실제 3
+
+##### 1. Mask
+
+A. 레이어 마스크
++ 검정과 흰색 이용
++ 레이어 창에서 '마스크'를 생성하여 마스크를 레이어 위에 얹어놓는다
+
+B. 클리핑 마스크
++ 단색으로 된 레이어를 생성
++ 위에 배경 이미지를 놓고 레이어 메뉴 이용
+
+
+
+
+
 
 ```
 ```
