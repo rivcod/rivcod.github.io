@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Database System #SQL"
-date:   2020-03-14 11:38:00 
-lastmod : 2020-03-14 11:38:00
+date:   2020-03-12 11:38:00 
+lastmod : 2020-03-12 11:38:00
 categories: [knou, database]
 sitemap :
   changefreq : daily
