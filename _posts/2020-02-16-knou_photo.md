@@ -2,6 +2,7 @@
 title: Understanding of Photogragh
 updated: 2020-02-16 11:38
 categories: [knou, photograph]
+published: false
 ---
 
 ### Photo
