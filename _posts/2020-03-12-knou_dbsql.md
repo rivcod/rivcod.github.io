@@ -4,6 +4,7 @@ title:  "Database System #SQL"
 date:   2020-03-12 11:38:00 
 lastmod : 2020-03-12 11:38:00
 categories: [knou, database]
+published: false
 sitemap :
   changefreq : daily
   priority : 1.0
